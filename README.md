@@ -31,6 +31,11 @@ To test the starting-kit, run
 ```
 ramp_test_submission --submission starting_kit
 ```
+or for a test mode :
+
+```
+ramp_test_submission --submission starting_kit --quick-test
+```
 
 
 #### Help
