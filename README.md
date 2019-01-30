@@ -23,7 +23,7 @@ Open a terminal and
 
 #### Local notebook
 
-Get started on this RAMP with the [dedicated notebook](Recommender-System-for-beers.ipynb).
+Get started on this RAMP with the [dedicated notebook](beer_rec_ramp_startingkit.ipynb).
 
 To test the starting-kit, run
 
