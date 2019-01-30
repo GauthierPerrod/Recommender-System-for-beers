@@ -8,6 +8,14 @@ import numpy as np
 from rampwf.score_types.base import BaseScoreType
 
 
+_train = 'train.csv'
+_test = 'test.csv'
+
+quick_mode = os.getenv('RAMP_TEST_MODE', 0)
+
+if(quick_mode):
+    _train = 'train_small.csv'
+    _test = 'test_small.csv'
 
 problem_title = 'Recommender System for beers'
 _target_column_names = ['rating', 'mean_rating']
@@ -41,7 +49,7 @@ class Res(BaseScoreType):
         self.precision = precision
 
     def __call__(self, y_true, y_pred):
-        return np.mean(np.abs(y_true[:, 0] - y_pred[:, 0])) / np.mean(np.abs(y_true[:, 1] - y_pred[:, 0]))
+        return np.mean(np.abs(y_true[:, 0] - y_pred[:, 0])) / np.mean(np.abs(y_true[:, 1] - y_true[:, 0]))
 
 
 
@@ -63,12 +71,12 @@ def _read_data(path, f_name):
 
 
 def get_train_data(path='.'):
-    f_name = 'train.csv'
+    f_name = _train
     return _read_data(path, f_name)
 
 
 def get_test_data(path='.'):
-    f_name = 'test.csv'
+    f_name = _test
     return _read_data(path, f_name)
 
 
