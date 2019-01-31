@@ -1,10 +1,10 @@
-# RAMP starting kit on Recommender System for beers
+# RAMP starting kit on Beer Recommender System
 
 
 _Authors: Philippe Burgelin, Côme Cothenet, Gauthier Perrod, Manuel Pichon_
 
-The goal of this challenge is to find ways to predict which would be the best beer to to suggest to an user of the recommandation system.
-A good exemple could be Spotify which dethroned Deezer into music streaming partly thanks to its recommender system.
+The goal of this challenge is develop a Recommender System to optimize the prediction of the best beer to suggest to any user.
+As Spotify dethroned Deezer into music streaming, we are modestly willing to improve any beer user experience.
 
 
 
