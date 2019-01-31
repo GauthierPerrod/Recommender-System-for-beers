@@ -8,7 +8,7 @@ class FeatureExtractor(object):
 
     def fit(self, X_df, y):
 
-        return(self, X_df)
+        return(self)
 
     def transform(self, X_df):
         return X_df[['authorId',	'beerId',	'styleId',	'brewerId',	'abv', 'mean_rating'	]]
