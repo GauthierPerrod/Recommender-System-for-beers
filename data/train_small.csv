@@ -1,0 +1,252 @@
+,authorId,beerId,styleId,brewerId,abv,brewerName,beerName,mean_rating,rating
+27854,35022,576,13.0,406.0,9.199999809265137,Pelforth (Heineken),Pelforth Brune,4.058550185873617,4.2
+169928,69462,642,25.0,282.0,7.699999809265138,Brasserie St-Feuillien / Friart,St-Feuillien Blonde,3.7491774383078673,3.6
+316264,22854,47,13.0,678.0,7.5,Brouwerij Van Steenberge,Augustijn Blond,3.3798632218844986,3.8
+71301,122778,563,3.0,121.0,4.699999809265137,"CervecerÃÂ­a Regiomontana/Comidas y Bebidas Fermentadas, SA de CV",Ocho Reales Pilsner,2.125898203592818,2.0
+40733,108099,183,3.0,119.0,4.5,Coors Brewing Company (MillerCoors),Coors Light,1.6336312849162018,2.4
+141681,364944,117,36.0,90.0,5.199999809265137,Brooklyn Brewery,Brooklyn Lager,3.4342599277978287,3.5
+312264,343843,487,3.0,49.0,5.0,Lupulus,Lupulus Brune,1.9778889899908996,1.6
+305031,23848,116,17.0,90.0,6.9000000953674325,Brooklyn Brewery,Brooklyn East IPA / India Pale Ale,3.389373088685016,3.5
+69216,11840,69,14.0,535.0,5.199999809265137,Belle-Vue (InBev),Belle-Vue Kriek,2.9419947506561637,2.7
+164284,17647,617,12.0,958.0,6.0,Brasserie Rochefort,Rochefort Trappistes 10,3.1577235772357737,3.1
+9768,131116,223,40.0,167.0,8.0,Brouwerij Huyghe,Delirium NoÃÂ«l,3.0351190476190464,2.9
+291373,3415,598,13.0,418.0,7.5,Pravda Beer Theatre,Pravda Trudeau,3.4599315068493124,3.4
+272428,41997,68,102.0,696.0,7.4000000953674325,Belhaven (Greene King),Belhaven Wee Heavy / 90 Shilling (Bottle),3.5447204968944104,4.0
+352437,52332,225,122.0,5157.0,5.9000000953674325,Brouwerij Huyghe,Delirium Tremens,1.6649709302325588,1.1
+175986,87609,76,101.0,48.0,4.699999809265137,Black Sheep,Black Sheep Monty Python's Holy Grail (Bottle),2.8861747243426654,3.1
+181664,135945,95,53.0,8534.0,5.0,BrewDog,BrewDog 5AM Saint,3.5972510690287134,4.4
+145179,247415,389,6.0,13078.0,7.4000000953674325,Innis & Gunn,Innis & Gunn Blonde,3.4278797996661083,3.7
+89411,1522,73,20.0,48.0,4.400000095367432,Black Sheep,Black Sheep Ale (Bottle),3.1676008968609897,4.0
+207999,284,332,3.0,114.0,5.0,Grizzly Peak Brewing Co.,Grizzly Peak Steelhead Red,2.5115039281705878,2.0
+264092,91434,175,15.0,9990.0,5.5,Chimay,Chimay Triple / Blanche (White) / Cinq Cents,3.7808771929824574,4.3
+378935,4098,68,102.0,696.0,7.4000000953674325,Belhaven (Greene King),Belhaven Wee Heavy / 90 Shilling (Bottle),3.5447204968944104,4.1
+383130,14890,183,3.0,119.0,4.5,Coors Brewing Company (MillerCoors),Coors Light,1.6336312849162018,1.9
+367292,2164,575,13.0,406.0,7.5,Pelforth (Heineken),Pelforth Blonde,3.759614542268941,3.8
+141405,35964,35,15.0,1447.0,5.5,Amsterdam Brewing Company,Amsterdam Downtown Brown,3.0961538461538485,3.1
+325787,5649,29,72.0,1711.0,9.5,Brouwerij Affligem / De Smedt (Heineken),Affligem Tripel,3.620869565217389,3.7
+102484,68028,286,101.0,55.0,4.699999809265137,Fuller's,Fuller's London Pride (Cask),3.373298429319368,3.9
+32370,220010,97,81.0,8534.0,9.199999809265137,BrewDog,BrewDog Hardcore IPA (9.2%),3.851469583048516,3.8
+190690,107916,288,54.0,55.0,5.0,Fuller's,Fuller's Old Winter Ale (Bottle),2.98396017699116,2.5
+303281,32245,350,76.0,1560.0,8.0,Harviestoun,Harviestoun Bitter & Twisted (Bottle),3.859271523178807,4.0
+145388,137945,180,103.0,113.0,5.5,Coors Brewing Company (MillerCoors),Coors Banquet Beer,2.767386609071273,2.7
+796,18181,23,13.0,1805.0,8.0,Brouwerij der Trappistenabdij De Achelse Kluis,Achel 8 Bruin,3.755941626129247,4.4
+296355,178977,621,11.0,342.0,9.0,United Dutch Breweries,Royal Dutch Post Horn,3.7985849056603764,3.7
+150595,38557,117,36.0,90.0,5.199999809265137,Brooklyn Brewery,Brooklyn Lager,3.4342599277978287,2.9
+144103,2862,484,13.0,808.0,7.5,Brouwerij Lindemans,Lindemans PÃÂªche Lambic (PÃÂªcheresse),3.694904458598727,3.7
+353513,271988,626,65.0,752.0,6.0,United Dutch Breweries,Royal Dutch Post Horn Red 16% Mega Strong,1.956435643564356,2.1
+141702,309036,101,17.0,8534.0,5.599999904632568,BrewDog,BrewDog Punk IPA (5.6%),3.692426035502956,4.2
+344603,69768,636,7.0,282.0,5.400000095367432,Brauerei Schloss Eggenberg,Schloss Eggenberg Samichlaus Classic,3.795745467998517,3.8
+143006,149170,192,12.0,13039.0,6.0,Brouwerij Corsendonk,Corsendonk Rousse,3.1054404145077728,3.9
+141363,85859,337,22.0,51.0,5.0,St. James's Gate (Diageo),Guinness Dublin Porter,3.2853617498597885,2.2
+118790,26412,306,76.0,143.0,6.0,Greene King,Greene King St Edmunds (Cask),3.6159090909090894,3.5
+249040,40077,655,56.0,756.0,5.0,Saint-Omer,Sterling BiÃÂ¨re Blanche,3.073041894353368,2.8
+286293,9334,618,71.0,958.0,6.5,Brasserie Rochefort,Rochefort Trappistes 6,3.2394101876675587,3.1
+260516,341852,172,13.0,12.0,9.0,Chimay,Chimay (Red / Rouge / Ale / PremiÃÂ¨re),3.9804398447606815,3.5
+307938,101220,274,40.0,167.0,3.5999999046325684,Brouwerij Huyghe,Floris Poire (Pear),2.6390173410404607,1.7000000000000002
+298571,209274,288,54.0,55.0,5.0,Fuller's,Fuller's Old Winter Ale (Bottle),2.98396017699116,2.7
+347179,13175,534,15.0,753.0,6.5,Mont-Blanc,Mont-Blanc La Blonde,3.0167023554603847,2.5
+157234,32082,297,58.0,1568.0,7.199999809265138,"Brasserie de Goudale (""Les Brasseurs De Gayant"" )",Gayant La  Biere du Demon,3.130199430199427,2.9
+328950,328256,96,121.0,8534.0,3.7999999523162837,BrewDog,BrewDog Dead Pony (Club) Pale Ale,3.510409836065573,2.9
+13759,98454,45,42.0,11.0,4.900000095367432,Anchor Brewing Company,Anchor Steam Beer,3.302271999999997,1.1
+287089,227834,66,17.0,696.0,5.599999904632568,Belhaven (Greene King),Belhaven Twisted Thistle IPA (Europe) (Bottle),3.151077943615262,3.3
+350588,1257,492,3.0,49.0,5.0,Duvel Moortgat,Maredsous 10 Tripel,2.1381355932203383,1.6
+57177,34274,351,76.0,1560.0,8.0,Harviestoun,Harviestoun Ola Dubh (12 Year Old),3.866872427983546,4.0
+247017,103496,116,17.0,90.0,6.9000000953674325,Brooklyn Brewery,Brooklyn East IPA / India Pale Ale,3.389373088685016,3.7
+325580,16304,603,80.0,439.0,10.0,Vanuxeem,Queue de Charrue Blonde,4.124257845631897,3.9
+382954,29274,113,24.0,90.0,10.0,Brooklyn Brewery,Brooklyn Black Chocolate Stout,3.9817746686303592,4.4
+90033,32215,598,13.0,418.0,7.5,Pravda Beer Theatre,Pravda Trudeau,3.4599315068493124,3.5
+156963,102920,183,3.0,119.0,4.5,Coors Brewing Company (MillerCoors),Coors Light,1.6336312849162018,1.7000000000000002
+180159,127913,119,11.0,90.0,10.800000190734863,Brooklyn Brewery,Brooklyn Monster Ale,3.5731653888280377,4.2
+306327,90053,424,9.0,780.0,7.0,Brouwerij Huyghe,La Bouffonne,3.578335535006605,3.8
+265537,33080,332,3.0,114.0,5.0,Grizzly Peak Brewing Co.,Grizzly Peak Steelhead Red,2.5115039281705878,2.6
+185363,208384,260,12.0,14404.0,5.5,Stift Engelszell Trappistenbier-Brauerei,Engelszell Gregorius Trappistenbier,3.386153846153844,3.4
+247671,6322,650,72.0,379.0,9.5,St. Bernardus Brouwerij,St. Bernardus Tripel,3.8351351351351406,3.6
+198934,71508,40,9.0,11.0,5.5,Anchor Brewing Company,Anchor Bock Beer,3.488641188959661,2.6
+349813,62841,28,71.0,1711.0,6.800000190734862,Brouwerij Affligem / De Smedt (Heineken),Affligem Dubbel - Double,3.4641860465116285,3.7
+132510,176943,45,42.0,11.0,4.900000095367432,Anchor Brewing Company,Anchor Steam Beer,3.302271999999997,3.0
+7794,3806,165,14.0,363.0,3.5,Brouwerij De Troch,Chapeau Fraises,2.8883870967741947,3.0
+1867,81829,545,12.0,896.0,7.5,Moulins d'Ascq,Moulins d'Ascq Blanche,3.50485689505638,3.5
+314890,43230,337,22.0,51.0,5.0,St. James's Gate (Diageo),Guinness Dublin Porter,3.2853617498597885,3.0
+202843,2966,623,102.0,342.0,7.199999809265138,United Dutch Breweries,Royal Dutch Post Horn Extra Smooth 4.3%,3.6685647425897,3.5
+160747,126402,286,101.0,55.0,4.699999809265137,Fuller's,Fuller's London Pride (Cask),3.373298429319368,3.2
+83152,69150,335,22.0,13.0,4.199999809265137,St. James's Gate (Diageo),Guinness Blonde American Lager,3.3019112304533267,3.6
+142318,7806,575,13.0,406.0,7.5,Pelforth (Heineken),Pelforth Blonde,3.759614542268941,4.4
+238301,59846,44,5.0,11.0,5.599999904632568,Anchor Brewing Company,Anchor Porter,3.809318181818186,3.3
+293936,65298,337,22.0,51.0,5.0,St. James's Gate (Diageo),Guinness Dublin Porter,3.2853617498597885,3.0
+8024,88036,94,81.0,8534.0,9.5,BrewDog,BrewDog / Mikkeller I Hardcore You,3.887755102040816,3.2
+58997,31165,68,102.0,696.0,7.4000000953674325,Belhaven (Greene King),Belhaven Wee Heavy / 90 Shilling (Bottle),3.5447204968944104,3.7
+232877,5522,128,3.0,2246.0,5.400000095367432,Cerveceria Bucanero (InBev),Bucanero Fuerte,2.0795312500000014,1.9
+249870,410540,62,21.0,696.0,5.199999809265137,Belhaven (Greene King),Belhaven Scottish Ale (US Version),3.1265753424657503,3.1
+152844,7791,608,3.0,260.0,5.199999809265137,Haacht,Rince Cochon IPA,2.4458270106221525,2.1
+264016,5000,604,71.0,439.0,8.0,Vanuxeem,Queue de Charrue Rouge,3.837244897959175,4.1
+128240,77747,169,14.0,363.0,3.5,Brouwerij De Troch,Chapeau Lemon,2.510032362459547,2.6
+136057,10361,303,20.0,143.0,3.5999999046325684,Greene King,Greene King IPA (Cask),2.4919101123595517,2.6
+375870,395416,146,18.0,850.0,5.199999809265137,Carlow,Carlow O'Hara's Irish Lager Helles Style,3.220522388059701,2.7
+222104,20720,47,13.0,678.0,7.5,Brouwerij Van Steenberge,Augustijn Blond,3.3798632218844986,3.1
+2598,1626,286,101.0,55.0,4.699999809265137,Fuller's,Fuller's London Pride (Cask),3.373298429319368,3.8
+51944,22477,639,26.0,282.0,7.4000000953674325,Boon Rawd Brewery,Singha,3.7613450659962315,3.8
+372383,31334,63,20.0,696.0,3.900000095367431,Belhaven (Greene King),Belhaven Scottish Ale / Export  (Bottle & Keg),3.235259133389971,3.0
+287770,295435,75,24.0,48.0,8.5,Black Sheep,Black Sheep Imperial Russian Stout,3.4256000000000006,2.9
+167251,21668,541,31.0,115.0,4.400000095367432,Mort Subite (Alken-Maes - Heineken),Mort Subite Witte Lambic,3.2254119138149537,3.4
+236789,45699,640,82.0,282.0,5.400000095367432,FEMSA - CuauhtÃÂ©moc-Moctezuma (Heineken),Sol (Mexico),3.425051617343424,3.6
+125350,217974,332,3.0,114.0,5.0,Grizzly Peak Brewing Co.,Grizzly Peak Steelhead Red,2.5115039281705878,2.1
+82091,128996,284,5.0,55.0,5.400000095367432,Fuller's,Fuller's India Pale Ale (Bottle/Keg),3.9214099216710188,3.7
+50518,165781,243,13.0,247.0,8.5,Duff beverage GmbH,"Duff Beer (Germany/EU can, 4.9%)",3.778249999999988,3.8
+299565,40823,402,72.0,956.0,11.0,Brouwerij Van Honsebrouck,Kasteel Hoppy,3.4125779625779624,3.8
+78051,29797,206,12.0,1537.0,6.5,Saint-Omer,Davelghem Blonde,3.1283505154639184,2.7
+161966,18919,22,13.0,1805.0,8.0,Brouwerij der Trappistenabdij De Achelse Kluis,Achel 8 Blond,3.746928916494136,3.4
+235314,3722,424,9.0,780.0,7.0,Brouwerij Huyghe,La Bouffonne,3.578335535006605,3.7
+1,172925,373,13.0,1718.0,8.5,Brouwerij Het Anker,Het Anker Gouden Carolus Christmas/NoÃÂ«l,3.8392210641799265,3.7
+96504,88643,22,13.0,1805.0,8.0,Brouwerij der Trappistenabdij De Achelse Kluis,Achel 8 Blond,3.746928916494136,4.1
+387212,172482,81,14.0,748.0,4.0,Brouwerij F. Boon,Boon Kriek,3.3888888888888884,2.6
+388260,137652,393,5.0,13078.0,7.4000000953674325,Innis & Gunn,Innis & Gunn Rum Cask,3.212203389830508,2.7
+92488,238298,354,5.0,1560.0,6.0,Harviestoun,Harviestoun Ola Dubh (30 Year Old),3.7193580246913562,4.4
+248349,24583,288,54.0,55.0,5.0,Fuller's,Fuller's Old Winter Ale (Bottle),2.98396017699116,3.2
+318104,284808,473,54.0,5973.0,5.0,Beer Market,Levrette L'Originale,2.6634615384615383,3.2
+93381,7180,65,101.0,696.0,4.900000095367432,Belhaven (Greene King),Belhaven St Andrews Ale (Bottle),3.226409903713896,3.6
+328840,20036,369,72.0,931.0,8.5,Arcense Bierbrouwerij (AB-InBev),Hertog Jan Pilsener,3.2365187713310584,3.2
+81563,2701,574,80.0,406.0,11.300000190734865,Brouwerij Bosteels (AB InBev),Pauwel Kwak,4.282098926982454,4.6
+89558,337634,288,54.0,55.0,5.0,Fuller's,Fuller's Old Winter Ale (Bottle),2.98396017699116,3.1
+70030,24583,60,75.0,708.0,0.5,FEMSA Cerveja Brasil,Bavaria Sem Alcool (Brazil),1.5624999999999998,3.1
+200575,356777,75,24.0,48.0,8.5,Black Sheep,Black Sheep Imperial Russian Stout,3.4256000000000006,4.0
+109996,6843,234,48.0,862.0,4.5,Britt (Brasserie de Bretagne),Dremmwel Stout,3.28761467889909,4.0
+65116,120897,423,12.0,780.0,6.5,3 Abbayes (CINARBO),La BiÃÂ¨re du Sorcier,3.3585728444003955,2.8
+176666,97302,299,101.0,143.0,5.0,Coors Brewing Company (MillerCoors),George Killian's Irish Red,3.045793499043985,3.3
+338987,264319,45,42.0,11.0,4.900000095367432,Anchor Brewing Company,Anchor Steam Beer,3.302271999999997,3.1
+328969,34989,298,36.0,113.0,4.900000095367432,"Brasserie de Goudale (""Les Brasseurs De Gayant"" )",Gayant La Goudale,2.6067342505430875,1.8
+250698,325439,103,18.0,8534.0,4.5,BrewDog,BrewDog Vagabond Pale Ale,3.3418823529411785,3.3
+99052,5370,297,58.0,1568.0,7.199999809265138,"Brasserie de Goudale (""Les Brasseurs De Gayant"" )",Gayant La  Biere du Demon,3.130199430199427,3.2
+354962,33586,601,45.0,418.0,6.5,Vanuxeem,Queue de Charrue (Vieille) Brune / (Oud) Bruin,3.569855967078196,3.1
+111222,79688,64,6.0,696.0,7.0,Belhaven (Greene King),Belhaven Scottish Stout (Bottle),3.5628865979381428,3.4
+23983,60778,625,72.0,632.0,8.399999618530272,United Dutch Breweries,Royal Dutch Post Horn Green 8.5% Extra Strong,3.910061813186809,4.0
+256830,86873,353,76.0,1560.0,8.0,Harviestoun,Harviestoun Ola Dubh (18 Year Old),3.929526916802609,3.8
+195514,50382,310,12.0,6372.0,6.699999809265138,Kronenbourg (Carlsberg),Grimbergen AmbrÃÂ©e,3.1733485193621935,3.6
+199992,31397,278,6.0,55.0,4.5,Fuller's,Fuller's 1845,3.4721481481481504,3.1
+80683,74926,625,72.0,632.0,8.399999618530272,United Dutch Breweries,Royal Dutch Post Horn Green 8.5% Extra Strong,3.910061813186809,3.8
+312999,12138,183,3.0,119.0,4.5,Coors Brewing Company (MillerCoors),Coors Light,1.6336312849162018,1.9
+241401,54221,378,48.0,73.0,4.900000095367432,Brouwerij Het Anker,Het Anker Gouden Carolus Tripel,3.4495124851367436,3.1
+272014,10451,574,80.0,406.0,11.300000190734865,Brouwerij Bosteels (AB InBev),Pauwel Kwak,4.282098926982454,4.7
+348166,38018,101,17.0,8534.0,5.599999904632568,BrewDog,BrewDog Punk IPA (5.6%),3.692426035502956,3.7
+74793,99523,397,13.0,956.0,11.0,Brasserie Piedboeuf (AB InBev),Jupiler,3.6201096892138906,4.6
+131178,152888,45,42.0,11.0,4.900000095367432,Anchor Brewing Company,Anchor Steam Beer,3.302271999999997,3.5
+233959,318205,601,45.0,418.0,6.5,Vanuxeem,Queue de Charrue (Vieille) Brune / (Oud) Bruin,3.569855967078196,3.6
+325380,45829,15,3.0,6626.0,5.599999904632568,Zywiec (Zywiec Group/Heineken),?ywiec Jasne Pe?ne / Beer,2.455684647302907,2.6
+105310,238298,338,79.0,13.0,7.5,Labatt Brewing Company (AB InBev),Guinness Extra Stout (North America),3.6387267904509257,3.4
+256828,20533,284,5.0,55.0,5.400000095367432,Fuller's,Fuller's India Pale Ale (Bottle/Keg),3.9214099216710188,4.7
+335014,6173,375,80.0,1718.0,11.0,Brouwerij Het Anker,Het Anker Gouden Carolus CuvÃÂ©e Van De Keizer Imperial Blond (Rood Label),4.011729141475207,3.8
+290888,4850,104,29.0,8534.0,4.900000095367432,BrewDog,BrewDog Zeitgeist,3.3701408450704267,3.4
+232642,300892,278,6.0,55.0,4.5,Fuller's,Fuller's 1845,3.4721481481481504,3.0
+95621,112403,243,13.0,247.0,8.5,Duff beverage GmbH,"Duff Beer (Germany/EU can, 4.9%)",3.778249999999988,3.5
+242796,6877,180,103.0,113.0,5.5,Coors Brewing Company (MillerCoors),Coors Banquet Beer,2.767386609071273,2.6
+199853,75242,487,3.0,49.0,5.0,Lupulus,Lupulus Brune,1.9778889899908996,1.4
+164340,110687,625,72.0,632.0,8.399999618530272,United Dutch Breweries,Royal Dutch Post Horn Green 8.5% Extra Strong,3.910061813186809,2.6
+126935,5348,279,101.0,55.0,5.9000000953674325,Fuller's,Fuller's Black Cab Stout (Bottle & Keg),3.608291666666668,4.2
+61812,36064,221,13.0,167.0,8.5,Brouwerij Huyghe,Delirium Deliria,3.5457393483709314,3.7
+140868,319149,492,3.0,49.0,5.0,Duvel Moortgat,Maredsous 10 Tripel,2.1381355932203383,1.6
+105550,6334,465,12.0,247.0,6.0,Anheuser-Busch InBev Belgium (AB InBev),Leffe Radieuse,3.337947725072608,4.0
+372195,278405,450,40.0,799.0,3.7999999523162837,La Trappe Trappist - Abdij O.L.V. Koningshoeven (Bavaria),La Trappe Dubbel,2.9879310344827585,3.4
+49332,21554,24,80.0,1805.0,9.5,Brouwerij der Trappistenabdij De Achelse Kluis,Achel Extra Bruin (de 3 Wijzen),3.93452544704264,4.0
+369546,55227,387,26.0,795.0,14.0,Hornbeer,Hornbeer Dame Blanche,3.7922807017543865,2.5
+289444,8858,636,7.0,282.0,5.400000095367432,Brauerei Schloss Eggenberg,Schloss Eggenberg Samichlaus Classic,3.795745467998517,4.0
+177223,35755,374,13.0,1718.0,10.0,Brouwerij Het Anker,Het Anker Gouden Carolus Classic,3.6793157076205327,4.0
+98502,458516,361,3.0,9.0,5.0,Hawthorn Brewing Co,Hawthorn Brewing Pilsner,2.0401019313304696,2.5
+211613,254731,240,12.0,526.0,7.0,Brasserie Du Bocq,Du Bocq La Gauloise Fruits Rouges,3.0682619647355183,3.1
+111458,19328,58,65.0,1012.0,8.600000381469728,Bavaria Brouwerij (Netherlands),Bavaria 8.6 (Original),2.1753378378378394,1.5
+88910,68683,279,101.0,55.0,5.9000000953674325,Fuller's,Fuller's Black Cab Stout (Bottle & Keg),3.608291666666668,3.5
+119381,1102,538,12.0,380.0,5.5,Mort Subite (Alken-Maes - Heineken),Mort Subite Blonde Lambic,2.8668304668304687,3.0
+324567,6460,487,3.0,49.0,5.0,Lupulus,Lupulus Brune,1.9778889899908996,3.0
+376153,4700,47,13.0,678.0,7.5,Brouwerij Van Steenberge,Augustijn Blond,3.3798632218844986,4.1
+188762,6250,430,72.0,780.0,8.0,Brasserie d'Ebly,La Corne du Bois des Pendus La Triple 10ÃÂº,3.61230382925298,3.6
+143782,21918,333,29.0,13.0,4.5,Grolsche Bierbrouwerij Ned. (Asahi),Grolsch,2.7324013157894798,2.9
+148248,89439,175,15.0,9990.0,5.5,Chimay,Chimay Triple / Blanche (White) / Cinq Cents,3.7808771929824574,4.0
+320781,5628,69,14.0,535.0,5.199999809265137,Belle-Vue (InBev),Belle-Vue Kriek,2.9419947506561637,3.6
+165148,378902,23,13.0,1805.0,8.0,Brouwerij der Trappistenabdij De Achelse Kluis,Achel 8 Bruin,3.755941626129247,4.3
+130736,61401,601,45.0,418.0,6.5,Vanuxeem,Queue de Charrue (Vieille) Brune / (Oud) Bruin,3.569855967078196,3.1
+241077,227834,641,60.0,282.0,5.099999904632568,Brasserie St-Feuillien / Friart,St-Feuillien / Green Flash Belgian Coast IPA,3.1116965226554223,2.9
+210232,476,657,101.0,756.0,5.199999809265137,Bulmers Cider (Heineken UK),Strongbow Cider,2.9236781609195392,3.3
+184337,395437,172,13.0,12.0,9.0,Chimay,Chimay (Red / Rouge / Ale / PremiÃÂ¨re),3.9804398447606815,3.5
+84550,47786,300,17.0,143.0,7.199999809265138,Greene King,Greene King Abbot Ale (Filtered),3.056765676567654,2.7
+238805,174823,391,56.0,13078.0,6.5999999046325675,Innis & Gunn,Innis & Gunn Lager Beer,3.187681580476468,0.8
+246497,107573,567,76.0,2784.0,8.5,Trinkgut - Udo TÃÂ¤ubrich Betreuungs,Oscar Maxxum Alt,3.5215384615384626,3.6
+391526,120599,650,72.0,379.0,9.5,St. Bernardus Brouwerij,St. Bernardus Tripel,3.8351351351351406,3.4
+313225,20662,179,3.0,113.0,5.0,Cobra Beer,Cobra Zero%,1.679687499999999,1.7000000000000002
+184670,22108,354,5.0,1560.0,6.0,Harviestoun,Harviestoun Ola Dubh (30 Year Old),3.7193580246913562,3.8
+297762,376266,332,3.0,114.0,5.0,Grizzly Peak Brewing Co.,Grizzly Peak Steelhead Red,2.5115039281705878,1.3
+231267,268891,485,13.0,808.0,8.5,Lion Brewery (Sri Lanka),Lion Lager (Sri Lanka),3.727094668117513,3.1
+363085,233080,306,76.0,143.0,6.0,Greene King,Greene King St Edmunds (Cask),3.6159090909090894,3.3
+54930,30911,284,5.0,55.0,5.400000095367432,Fuller's,Fuller's India Pale Ale (Bottle/Keg),3.9214099216710188,3.9
+309042,52703,604,71.0,439.0,8.0,Vanuxeem,Queue de Charrue Rouge,3.837244897959175,4.1
+247961,354115,44,5.0,11.0,5.599999904632568,Anchor Brewing Company,Anchor Porter,3.809318181818186,3.9
+334315,54417,541,31.0,115.0,4.400000095367432,Mort Subite (Alken-Maes - Heineken),Mort Subite Witte Lambic,3.2254119138149537,3.4
+320556,59913,337,22.0,51.0,5.0,St. James's Gate (Diageo),Guinness Dublin Porter,3.2853617498597885,3.5
+53675,3083,654,20.0,26.0,3.5999999046325684,Saint-Omer,Sterling Biere Blonde Forte,2.2607142857142875,2.5
+262669,101051,523,5.0,21647.0,4.5,Brouwerij Huyghe,Mongozo Banana,2.9743589743589745,3.3
+280426,28346,286,101.0,55.0,4.699999809265137,Fuller's,Fuller's London Pride (Cask),3.373298429319368,3.1
+127883,20036,29,72.0,1711.0,9.5,Brouwerij Affligem / De Smedt (Heineken),Affligem Tripel,3.620869565217389,3.2
+336361,7208,489,3.0,49.0,5.0,Lupulus,Lupulus Hibernatus,1.8129287598944588,0.9
+330158,97252,35,15.0,1447.0,5.5,Amsterdam Brewing Company,Amsterdam Downtown Brown,3.0961538461538485,3.2
+359685,352852,48,118.0,956.0,5.0,Brouwerij Van Honsebrouck,Bacchus Frambozenbier,3.2154970760233925,3.4
+363906,325439,625,72.0,632.0,8.399999618530272,United Dutch Breweries,Royal Dutch Post Horn Green 8.5% Extra Strong,3.910061813186809,3.9
+152238,5299,73,20.0,48.0,4.400000095367432,Black Sheep,Black Sheep Ale (Bottle),3.1676008968609897,3.5
+96038,7156,22,13.0,1805.0,8.0,Brouwerij der Trappistenabdij De Achelse Kluis,Achel 8 Blond,3.746928916494136,4.2
+46092,5328,66,17.0,696.0,5.599999904632568,Belhaven (Greene King),Belhaven Twisted Thistle IPA (Europe) (Bottle),3.151077943615262,3.0
+93192,311875,225,122.0,5157.0,5.9000000953674325,Brouwerij Huyghe,Delirium Tremens,1.6649709302325588,1.6
+194288,53909,430,72.0,780.0,8.0,Brasserie d'Ebly,La Corne du Bois des Pendus La Triple 10ÃÂº,3.61230382925298,3.0
+359254,3395,349,54.0,1560.0,4.199999809265137,Hartwall (Royal Unibrew),Hartwall Polar Monkeys White Collar,3.3744094488189,4.3
+205057,37612,278,6.0,55.0,4.5,Fuller's,Fuller's 1845,3.4721481481481504,3.8
+126059,46019,118,13.0,90.0,9.0,Brooklyn Brewery,Brooklyn Local 1,3.6547741935483855,3.6
+135502,104314,175,15.0,9990.0,5.5,Chimay,Chimay Triple / Blanche (White) / Cinq Cents,3.7808771929824574,3.7
+221812,196050,588,58.0,1568.0,6.5,Pracownia Piwa,Pracownia Piwa Mr. Hard's Rocks,2.9259259259259256,2.9
+390368,123267,373,13.0,1718.0,8.5,Brouwerij Het Anker,Het Anker Gouden Carolus Christmas/NoÃÂ«l,3.8392210641799265,3.7
+365367,347202,185,72.0,13039.0,7.5,Grupo Modelo (Corona),Corona Light,3.617363530778162,3.3
+232042,81835,643,56.0,754.0,5.199999809265137,Brasserie St-Feuillien / Friart,St-Feuillien Brune,2.9575256107171035,3.4
+214357,24194,243,13.0,247.0,8.5,Duff beverage GmbH,"Duff Beer (Germany/EU can, 4.9%)",3.778249999999988,4.2
+229125,98909,462,12.0,4507.0,6.0,Anheuser-Busch InBev Belgium (AB InBev),Leffe 9ÃÂ° / Rituel 9,3.3488888888888875,3.6
+295680,12055,179,3.0,113.0,5.0,Cobra Beer,Cobra Zero%,1.679687499999999,1.0
+272797,21000,354,5.0,1560.0,6.0,Harviestoun,Harviestoun Ola Dubh (30 Year Old),3.7193580246913562,3.4
+255312,384064,543,79.0,850.0,7.0,Aston Manor,MotÃÂ¶rhead Snaggletooth Cider,3.702500000000001,3.6
+62533,394290,306,76.0,143.0,6.0,Greene King,Greene King St Edmunds (Cask),3.6159090909090894,3.3
+30855,52264,47,13.0,678.0,7.5,Brouwerij Van Steenberge,Augustijn Blond,3.3798632218844986,3.1
+333558,256066,25,12.0,1711.0,6.800000190734862,Brouwerij Affligem / De Smedt (Heineken),Affligem Blonde,3.3260152284263835,3.6
+56164,3467,130,3.0,84.0,5.0,Anheuser-Busch InBev (AB InBev),Budweiser,1.4518075718758894,0.5
+322417,340194,278,6.0,55.0,4.5,Fuller's,Fuller's 1845,3.4721481481481504,2.9
+117545,70869,297,58.0,1568.0,7.199999809265138,"Brasserie de Goudale (""Les Brasseurs De Gayant"" )",Gayant La  Biere du Demon,3.130199430199427,3.4
+355491,49156,306,76.0,143.0,6.0,Greene King,Greene King St Edmunds (Cask),3.6159090909090894,3.3
+244261,88036,131,36.0,84.0,6.0,Anheuser-Busch InBev (AB InBev),Budweiser Black Crown,2.2615071283095727,1.7000000000000002
+207845,65408,306,76.0,143.0,6.0,Greene King,Greene King St Edmunds (Cask),3.6159090909090894,3.6
+78671,78226,600,13.0,418.0,9.5,Pravda Beer Theatre,Pravda Vatra,3.5824508320726185,4.0
+294037,11022,154,58.0,739.0,6.4000000953674325,Castelain,Castelain Ch'Ti Blanche,2.975517890772129,1.1
+379366,14214,654,20.0,26.0,3.5999999046325684,Saint-Omer,Sterling Biere Blonde Forte,2.2607142857142875,3.2
+307852,45064,298,36.0,113.0,4.900000095367432,"Brasserie de Goudale (""Les Brasseurs De Gayant"" )",Gayant La Goudale,2.6067342505430875,2.6
+296323,372570,210,18.0,4448.0,4.5,Huisbrouwerij De Halve Maan,De Halve Maan Brugse Zot Dubbel,3.525210084033618,2.7
+292549,177827,521,53.0,21647.0,6.5,Molson Breweries (Molson Coors),Molson Ice,3.111111111111112,3.1
+289751,60182,643,56.0,754.0,5.199999809265137,Brasserie St-Feuillien / Friart,St-Feuillien Brune,2.9575256107171035,3.4
+206964,160630,284,5.0,55.0,5.400000095367432,Fuller's,Fuller's India Pale Ale (Bottle/Keg),3.9214099216710188,3.5
+267473,5981,492,3.0,49.0,5.0,Duvel Moortgat,Maredsous 10 Tripel,2.1381355932203383,3.3
+123467,137355,42,17.0,11.0,6.5,Anchor Brewing Company,Anchor IPA,3.494337349397589,3.1
+207594,163945,142,14.0,1069.0,5.0,MÃÂ©lusine,Canardou La Nonnette,4.120324508966694,4.1
+293657,240704,88,12.0,1189.0,6.0,Timmermans (John Martin),Bourgogne des Flandres BiÃÂ¨re Blonde,3.1266666666666665,3.5
+63165,396170,466,71.0,247.0,8.0,Anheuser-Busch InBev Belgium (AB InBev),Leffe Royale Cascade IPA,3.5487479131886537,3.4
+328129,167810,45,42.0,11.0,4.900000095367432,Anchor Brewing Company,Anchor Steam Beer,3.302271999999997,3.7
+36124,65764,76,101.0,48.0,4.699999809265137,Black Sheep,Black Sheep Monty Python's Holy Grail (Bottle),2.8861747243426654,2.9
+204127,13895,429,80.0,780.0,10.0,Brasserie d'Ebly,La Corne du Bois des Pendus La Black,3.846297062474137,4.1
+76569,31748,81,14.0,748.0,4.0,Brouwerij F. Boon,Boon Kriek,3.3888888888888884,3.3
+138785,239903,139,18.0,12611.0,4.0,Camden Town Brewery (AB InBev),Camden Town Gentleman's Wit,3.2064748201438857,3.4
+221626,23043,370,48.0,931.0,5.699999809265138,Arcense Bierbrouwerij (AB-InBev),Hertog Jan Tripel / Arcener Tripel,3.0608695652173923,2.7
+296397,50249,337,22.0,51.0,5.0,St. James's Gate (Diageo),Guinness Dublin Porter,3.2853617498597885,2.9
+314773,99464,50,118.0,956.0,4.5,Brouwerij Van Honsebrouck,Bacchus Vlaams Oud Bruin,3.304302670623142,3.4
+83469,20720,100,17.0,8534.0,6.0,BrewDog,BrewDog Punk IPA  (6%),3.4493506493506523,3.2
+242496,131101,45,42.0,11.0,4.900000095367432,Anchor Brewing Company,Anchor Steam Beer,3.302271999999997,3.4
+7850,70964,87,118.0,1189.0,5.0,Timmermans (John Martin),Bourgogne des Flandres,3.1914992272024745,3.1
+112880,89487,598,13.0,418.0,7.5,Pravda Beer Theatre,Pravda Trudeau,3.4599315068493124,3.0
+384146,5235,531,7.0,61.0,5.5,Mont-Blanc,Mont-Blanc Brassin d'Hiver aux Marrons,3.55906834669722,2.6
+131183,137077,606,58.0,1231.0,8.5,Desnoes and Geddes (Diageo PLC),Red Stripe,3.3220763723150384,4.5
+351381,442110,576,13.0,406.0,9.199999809265137,Pelforth (Heineken),Pelforth Brune,4.058550185873617,3.7
+126232,347202,427,12.0,780.0,6.0,La Choulette,La Choulette BiÃÂ¨re des Sans Culottes,3.4218905472636814,3.5
+353939,4725,337,22.0,51.0,5.0,St. James's Gate (Diageo),Guinness Dublin Porter,3.2853617498597885,3.9
+75153,120639,132,31.0,221.0,5.0,BudejovickÃÂ½ Budvar,Budweiser Budvar B:Original (Czechvar) 12ÃÂ°,3.1033983008495736,3.4
+156645,82173,497,40.0,167.0,3.5999999046325684,Meantime (Asahi),Meantime India Pale Ale,2.2011406844106496,1.7000000000000002
+328248,135183,102,24.0,8534.0,8.0,BrewDog,BrewDog Riptide,3.6335035750766136,3.7
+131227,17815,484,13.0,808.0,7.5,Brouwerij Lindemans,Lindemans PÃÂªche Lambic (PÃÂªcheresse),3.694904458598727,3.8
+123194,390035,281,56.0,55.0,8.5,Fuller's,Fuller's ESB (Cask),3.5771300448430527,3.9
+296614,137798,30,4.0,9.0,5.0,Heineken Nederland,Amstel 1870,2.624375,2.7
