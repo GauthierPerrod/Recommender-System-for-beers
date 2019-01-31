@@ -3,8 +3,8 @@
 
 _Authors: Philippe Burgelin, Côme Cothenet, Gauthier Perrod, Manuel Pichon_
 
-The goal of this challenge is develop a Recommender System to optimize the prediction of the best beer to suggest to any user.
-As Spotify dethroned Deezer into music streaming, we are modestly willing to improve any beer user experience.
+The goal of this challenge is to develop a Recommender System to optimize the prediction of the best beer to suggest to any user.
+As Spotify dethroned Deezer into music streaming, we are modestly willing to improve every beer user experience.
 
 
 
